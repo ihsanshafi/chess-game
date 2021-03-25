@@ -1,8 +1,3 @@
-'''
-Developed by: Frederico Jordan
-
-@author: fvj
-'''
 import pygame, chess
 from random import choice
 from traceback import format_exc
